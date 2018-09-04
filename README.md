@@ -6,3 +6,4 @@ List of my Todo projects.
   **References:**
 	- [XlsxWriter](https://xlsxwriter.readthedocs.io/)
 	- [Win 10 Notifications](https://github.com/jithurjacob/Windows-10-Toast-Notifications)
+	- [.py to .exe](https://medium.com/dreamcatcher-its-blog/making-an-stand-alone-executable-from-a-python-script-using-pyinstaller-d1df9170e263)
