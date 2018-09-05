@@ -14,7 +14,4 @@ List of my Todo projects.
 
 
 ### TODAY
-TODO
-- try running cleos new account creation using script
-- create json(lat,long of loc.). Refer examples.
-- https://packagecontrol.io/installation
+
