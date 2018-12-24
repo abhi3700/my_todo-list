@@ -1,0 +1,32 @@
+int x = 0;	// variable for counting no. of wafers
+int y = 0;	// variable for printing status - DONE.
+
+
+if ( (Hn == "REPL1A")  )   // check for row with "REPL1A", where H - column, n = 1:infinity
+{
+while (y = 0)	// loop for running the code with 
+{
+	if(x > 75) 
+	{	// if count_wafers > 75 => RUN Dry clean recipe
+		y = 1;	// set the variable to '1'
+		print(On == DONE)	// print "DONE" message in column O with row, same as 
+		x = 0;	// set x-> '0' so as to start counting again based on whether <,>,= 75
+	}
+	else 
+	{
+		x = x + In;
+		
+	}
+		
+}
+
+
+
+
+
+
+
+------------------------------------------------------------------------------
+x <= 75 => Don't RUN
+
+&& (On == "DONE")
