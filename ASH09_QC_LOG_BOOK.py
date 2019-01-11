@@ -16,25 +16,25 @@ def main():
     sht_cp_plot = wb.sheets['CP Plot']
     sht_er_plot = wb.sheets['ER Plot']
 
-	#--------------------------------------------------------------------------------------------------------------------------------
+    #--------------------------------------------------------------------------------------------------------------------------------
     # Draw CP Plot
     fig_cp = plt.figure()
     df_cp = sht_asfe1_cp.range('A10').options(
-		pd.DataFrame, header=1, index=False, expand='table'
-		).value											# fetch the data from sheet- 'ASFE1-CP'
+        pd.DataFrame, header=1, index=False, expand='table'
+        ).value											# fetch the data from sheet- 'ASFE1-CP'
     # sht_cp_plot.range('A1').options(index=False).value = df_cp   	# show the dataframe values into sheet- 'CP Plot'
     plt.plot(df_cp["Date (MM/DD/YY)"], df_cp["delta CP"])
     sht_cp_plot.pictures.add(fig_cp, name= "ASFE1_CP_Plot", update= True)
 
-	#--------------------------------------------------------------------------------------------------------------------------------
-	# Draw ER Plot
+    #--------------------------------------------------------------------------------------------------------------------------------
+    # Draw ER Plot
     # fig_er = plt.figure()
     # df_er = sht_asfe1_er.range('A9').options(
-		# pd.read_excel("H:\\excel\\dryetch\\macro_enabled_logbooks\\ASH09_QC_LOG_BOOK\\ASH09_QC_LOG_BOOK.xlsm", sheetname='ASFE1-ER'), header=1, index=False
-		# ).value
+        # pd.read_excel("H:\\excel\\dryetch\\macro_enabled_logbooks\\ASH09_QC_LOG_BOOK\\ASH09_QC_LOG_BOOK.xlsm", sheetname='ASFE1-ER'), header=1, index=False
+        # ).value
     df_er = sht_asfe1_er.range('A9').options(
-		pd.DataFrame, header=1, index=False
-		).value
+        pd.DataFrame, header=1, index=False
+        ).value
             
     # df_er.replace('', np.NaN, inplace=True)        # replace the empty boxes with spaces
     sht_er_plot.range('A1').options(index=False).value = df_er       # show the dataframe values into sheet- 'CP Plot'
