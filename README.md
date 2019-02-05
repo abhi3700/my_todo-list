@@ -14,4 +14,5 @@ List of my Todo projects.
 
 
 ### TODAY
-https://www.amazon.in/Btwin-100-Bike-Tool-Bag/dp/B06XKKN4F6?tag=googinhydr18418-21
+- https://www.amazon.in/Btwin-100-Bike-Tool-Bag/dp/B06XKKN4F6?tag=googinhydr18418-21
+- https://t.me/eosstudio
