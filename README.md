@@ -16,10 +16,18 @@ List of my Todo projects.
 ### TODAY
 * https://www.amazon.in/Btwin-100-Bike-Tool-Bag/dp/B06XKKN4F6?tag=googinhydr18418-21
 * https://t.me/eosstudio
-* Freelancing:
+* Freelancing project:
   - https://libraries.io/github/appunite/video-player-android
   - I/O 2017 Exoplayer Session -https://www.youtube.com/watch?v=jAZn-J1I8Eg
   - https://developer.android.com/guide/topics/media/exoplayer
   - https://codelabs.developers.google.com/codelabs/exoplayer-intro/#0
   - Realm - https://academy.realm.io/posts/360andev-effie-barak-switching-exoplayer-better-video-android/
 * Medium blog - **"Android Studio/XCode for EOS dApps"**
+* **"Create Bots using Python"**  #udemy
+  1. Introduction
+  2. Telegram Bot
+  3. Slack Bot
+  4. Twitter Bot
+  5. Messenger Bot
+  6. Twilio Bot 
+	
