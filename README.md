@@ -29,5 +29,6 @@ List of my Todo projects.
   3. Slack Bot
   4. Twitter Bot
   5. Messenger Bot
-  6. Twilio Bot 
+  6. Twilio Bot
+  7. Steem Bot
 	
