@@ -33,4 +33,5 @@ List of my Todo projects.
   8. Github Bot
   9. YouTube Bot
   10. Discord Bot
+  11. Reddit Bot
 	
