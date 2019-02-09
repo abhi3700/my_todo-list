@@ -32,4 +32,5 @@ List of my Todo projects.
   7. Steem Bot
   8. Github Bot
   9. YouTube Bot
+  10. Discord Bot
 	
