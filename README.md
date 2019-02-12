@@ -35,3 +35,4 @@ List of my Todo projects.
   10. Discord Bot
   11. Reddit Bot
 	
+* My Resume - https://app.zety.com/app/cv/a1ca3877-4fd5-48a8-8117-85146c6b3753#personal
