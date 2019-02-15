@@ -38,4 +38,7 @@ List of my Todo projects.
 * c vs cpp:
 	- std::string vs const char*
 	- enum vs list
+		+ An Enum could be days of the week for example. A Enum could departments in a company: eg SALES, BILLING, HR ...
+		+ An Enum is basically a group of named constants. It is an alternative to numbered flag parameters. (It also doesn't have to be numbered from zero, you can specify the numbering.)
+		+ https://stackoverflow.com/a/31801955
 	- std::endl, '\n'
