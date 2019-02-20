@@ -42,3 +42,5 @@ List of my Todo projects.
 		+ An Enum is basically a group of named constants. It is an alternative to numbered flag parameters. (It also doesn't have to be numbered from zero, you can specify the numbering.)
 		+ https://stackoverflow.com/a/31801955
 	- std::endl, '\n'
+* Buy mobile phone
+	- https://www.91mobiles.com/nokia-1-price-in-india
