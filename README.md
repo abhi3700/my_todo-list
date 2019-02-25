@@ -34,6 +34,7 @@ List of my Todo projects.
   9. YouTube Bot
   10. Discord Bot
   11. Reddit Bot
+	12. Wikipedia Bot
 	
 * c vs cpp:
 	- std::string vs const char*
